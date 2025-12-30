@@ -2,4 +2,4 @@
     materialized = 'ephemeral'
 ) }}
 
-SELECT * FROM staging.purchase_orders
+SELECT * FROM staging.stg_purchase_orders
